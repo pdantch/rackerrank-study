@@ -14,17 +14,28 @@ O projeto contém as seguintes funcionalidades principais:
 
 ## Como Usar 📖
 1. Clone este repositório para a sua máquina local utilizando o seguinte comando:
-
-``git clone https://github.com/pdantch/rackerrank-study.git``
-
-2. Abra o projeto em sua IDE favorita.
-3. Navegue para o pacote ou diretório do exercício que você deseja estudar.
-4. Explore o código-fonte para entender a solução proposta.
-5. Execute os testes para validar a solução.
-6. Experimente fazer modificações ou melhorias no código, se desejar.
+   
+   ``git clone https://github.com/pdantch/rackerrank-study.git``
+3. Abra o projeto em sua IDE favorita.
+4. Navegue para o pacote ou diretório do exercício que você deseja estudar.
+5. Explore o código-fonte para entender a solução proposta.
+6. Execute os testes para validar a solução.
+7. Experimente fazer modificações ou melhorias no código, se desejar.
 
 ## Contribuição 🤝
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos exercícios para adicionar ao projeto, sinta-se à vontade para enviar um pull request.
+Contribuições são bem-vindas! Sinta-se à vontade para contribuir com este projeto. Caso encontre alguma melhoria ou queira adicionar suas próprias soluções para os problemas do HackerRank, você pode seguir as etapas abaixo:
+1. Faça um fork deste repositório.
+2. Crie uma branch para a sua contribuição:
+   
+   ``git checkout -b minha-contribuicao``
+3. Implemente as melhorias ou adicione suas soluções.
+4. Faça commit das suas alterações:
+
+   ``git commit -m "Minha contribuição: Descrição das alterações"``
+5. Faça push para a sua branch:
+
+   ``git push origin minha-contribuicao``
+6. Abra um pull request para que as suas alterações sejam revisadas e incorporadas ao projeto principal.
 
 ## Licença 📝
 Este projeto é licenciado sob a [MIT License](LICENSE).
