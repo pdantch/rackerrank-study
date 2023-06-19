@@ -15,7 +15,7 @@ O projeto contém as seguintes funcionalidades principais:
 ## Como Usar 📖
 1. Clone este repositório para a sua máquina local utilizando o seguinte comando:
 
-> ``git clone https://github.com/seu-usuario/nome-do-repositorio.git``
+``git clone https://github.com/seu-usuario/nome-do-repositorio.git``
 
 2. Abra o projeto em sua IDE favorita.
 3. Navegue para o pacote ou diretório do exercício que você deseja estudar.
